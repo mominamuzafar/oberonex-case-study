@@ -25,7 +25,8 @@ The goal was to create a professional, mobile-friendly site that communicates Ob
 - Clear service-focused structure increased inquiries from the contact form
 
 ## ⚡ Challenges & Solutions
-**Challenge:** Create a complete, professional website for a company starting its online presence from scratch, ensuring it reflects their brand and communicates their services effectively.  
+**Challenge:** Create a complete, professional website for a company starting its online presence from scratch, ensuring it reflects their brand and communicates their services effectively. 
+
 **Solution:** Designed and developed the site from the ground up with a modern, responsive layout, clear navigation, optimized performance, and SEO best practices to establish a strong digital footprint.
 
 ## 🔗 Live Project
