@@ -29,6 +29,12 @@ The goal was to create a professional corporate site to represent Oberonex’s b
 [Live Website](https://oberonex.com/)  
 
 ## Screenshots  
+
+### Homepage
 ![Home](assets/home.png)  
-![Services](assets/services.png)  
+
+### Services Page
+![Services](assets/services.png) 
+
+### Contact Form
 ![Mobile](assets/mobile.png)  
