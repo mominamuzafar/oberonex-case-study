@@ -36,10 +36,10 @@ The goal was to create a professional, mobile-friendly site that communicates Ob
 <summary>📸 View Screens</summary>
 
 **Homepage**  
-![Home](assests/home.png)  
+![Home](assets/home.png)
 **Services Page**  
 ![Services](assets/services.png)  
 **Mobile Contact Form**  
-![Mobile](assests/mobile.png)
+![Mobile](assets/mobile.png)
 
 </details>
